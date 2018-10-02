@@ -1,0 +1,22 @@
+ O volume na unidade C ‚ OS
+ O N£mero de S‚rie do Volume ‚ FE42-23FE
+
+ Pasta de C:\PROJETOS\servidorPublicoMG\downloads
+
+02/10/2018  22:20    <DIR>          .
+02/10/2018  22:20    <DIR>          ..
+02/10/2018  22:20                 0 dir.txt
+29/05/2018  00:27        79.457.080 servidoresmg0117.csv
+29/05/2018  00:27        61.520.136 servidoresmg0217.csv
+29/05/2018  00:27        68.548.338 servidoresmg0317.csv
+29/05/2018  00:27        69.440.658 servidoresmg0417.csv
+29/05/2018  00:27        70.709.926 servidoresmg0517.csv
+29/05/2018  00:27        71.056.166 servidoresmg0617.csv
+29/05/2018  00:26        71.109.047 servidoresmg0717.csv
+29/05/2018  00:26        71.626.236 servidoresmg0817.csv
+29/05/2018  00:26        72.221.157 servidoresmg0917.csv
+29/05/2018  00:26        71.696.562 servidoresmg1017.csv
+28/05/2018  19:03        72.222.166 servidoresmg1117.csv
+28/05/2018  19:20        74.524.915 servidoresmg1217.csv
+              13 arquivo(s)    854.132.387 bytes
+               2 pasta(s)   700.994.891.776 bytes dispon¡veis
